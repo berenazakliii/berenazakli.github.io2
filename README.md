@@ -2,21 +2,20 @@
 
 # Beren Azaklı
 
-## Projects
-I did some projects in my CSP class, here are some:
+## **[Projects:](https://github.com/berenazakliii/berenazakli.github.io2/tree/main/projects)**
+*I did some projects in my CSP class, to see them, click the titles!*
 
-link to the projects: https://github.com/berenazakliii/berenazakli.github.io2/tree/main/projects
 <br>
 
-## Scratch
-Tic tac toe
+## **[Scratch:](https://github.com/berenazakliii/berenazakli.github.io2/tree/main/projects/blockoding)**
+*Tic tac toe*
 
-the link: https://github.com/berenazakliii/berenazakli.github.io2/tree/main/projects/blockoding
+
 <br>
-## Swift
-XOX game
 
-the link: https://github.com/berenazakliii/berenazakli.github.io2/tree/main/projects/swift
+## **[Swift:](https://github.com/berenazakliii/berenazakli.github.io2/tree/main/projects/swift)**
+
+*XOX game*
 
 
 
