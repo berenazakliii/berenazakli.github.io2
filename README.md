@@ -1,5 +1,7 @@
 ![Beren Azaklı](assets/profil.png)
 
+**[home](https://berenazakliii.github.io/berenazakli.github.io2/) | [projects](https://github.com/berenazakliii/berenazakli.github.io2/tree/main/projects) |**
+
 # Beren Azaklı
 
 ## **[Projects:](https://github.com/berenazakliii/berenazakli.github.io2/tree/main/projects)**
