@@ -10,7 +10,7 @@
 ## **[Scratch:](https://github.com/berenazakliii/berenazakli.github.io2/tree/main/projects/blockoding)**
 *Tic tac toe*
 
-<img src="Screenshot 2025-09-03 at 11.17.57.png" width: 500>
+
 
 <br>
 
