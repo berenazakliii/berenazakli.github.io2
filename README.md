@@ -18,6 +18,8 @@
 
 *XOX game*
 
+<img src="Screenshot 2025-09-03 at 11.18.16.png" alt="photo">
+
 <br>
 
 ## [Swift video:](https://drive.google.com/file/d/1Sv3gThbgu-gjOIpwiryBfZp0z_RLUF9Y/view?usp=sharing)
