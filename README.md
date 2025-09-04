@@ -22,9 +22,9 @@
 
 <img src="Screenshot 2025-09-03 at 11.18.16.png" alt="photo">
 
-*Calculator
+*Calculator*
 
-<img src="Screenshot 2025-09-03 at 11.18.16.png" alt="photo">
+<img src="Screenshot 2025-09-04 at 11.19.23.png" alt="photo">
 
 <br>
 
