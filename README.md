@@ -7,7 +7,11 @@ Hi, my name is Beren and I am taking CSP class.
 
 
 # My mentor
-My entors name is Sedat Yalçın.
+My mentors name is Sedat Yalçın.
+
+
+<img src="Screenshot 2025-09-05 at 11.24.19.png" alt="My Photo">
+
 
 
 
