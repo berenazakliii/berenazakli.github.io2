@@ -4,6 +4,7 @@
 
 # Beren Azaklı
 Hi, my name is Beren and I am taking CSP class.
+<img src="Screenshot 2025-09-15 at 08.11.23.png" alt="My Photo">
 
 
 # My mentor
