@@ -1,4 +1,4 @@
-[home](README.md) | **[projects](projects.md)** | [documentation](documentation.md)
+[home](README.md) | **[projects](projects.md)** | [documentation](documentation.md)** |
 
 ## **[Projects:](https://github.com/berenazakliii/berenazakli.github.io2/tree/main/projects)**
 *I did some projects in my CSP class, to see them, click the titles!*
