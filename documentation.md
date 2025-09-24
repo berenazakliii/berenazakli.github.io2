@@ -1,5 +1,6 @@
 # Big idea notes
 **COLLABRATİON**
+
 *Computing innovation can be improved through collaboration. A computing innovation is the creation and application of novel ideas, technologies, and approaches within the field of computing, it includes a program as an integral part of its function. Effective collaboration results in a computing innovation that reflects the diversity and the unique perspectives of those who designed it, it also helps avoid bias in the development of computing innovations. While developing computing innovations, consultation and communication with users are important aspects of the development. Some common models of types of collaboration are pair programming, think-pair-share and etc… Collaboration can be supported by online tools such as github, repl it and shared doc/folder.*
 
 **PROGRAM FUNCTİON AND PURPOSE**
