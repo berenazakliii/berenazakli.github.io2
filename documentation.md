@@ -32,6 +32,32 @@ When time reaches 0 or player hits an obstacle, the clock resets and prints a me
 
 ---
 
+
+# 🍦 Ice Cream Overflow
+
+This is a simple SwiftUI game where you stack scoops of ice cream. You can add up to 3 scoops. If you try to add more — it overflows!
+
+---
+
+##  Reflection
+
+###  What is overflow in your app?
+Overflow happens when you add more than 3 scoops. The app shows a message saying it’s too many scoops and stops you from adding more.
+
+---
+
+### How does the cone show abstraction?
+The cone is a triangle shape. Instead of drawing every part, I used a simple `Triangle` shape. That’s abstraction — using one shape to stand for something more complex.
+
+---
+
+###  What did you learn about binary & compression?
+I learned that computers use 1s and 0s (binary) to store things like colors and scoop positions.  
+Compression means saving space — like reusing the same code instead of writing it again and again.
+
+---
+
+
 ### ⏱️ Part A — Console Test:
 
 
