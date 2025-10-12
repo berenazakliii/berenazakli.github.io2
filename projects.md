@@ -34,6 +34,9 @@
 
 <img src="Screenshot 2025-09-22 at 22.27.17.png" alt="photo">
 
+*Frog Game*
+
+<img src="Screenshot 2025-10-12 at 23.12.32.png" alt="photo">
 
 <br>
 
