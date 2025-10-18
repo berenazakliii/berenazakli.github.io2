@@ -17,6 +17,22 @@
 *There are lots of errors we can face while creating a program. A logic error is a mistake in the algorithm/program that causes the program to fail. Some of these errors are called syntax error, run-time error or an overflow error. Some effective ways to find and correct errors are test cases, hand tracing debuggers etc.. İn the development process testing uses defined input to make sure a program does not fail, defined inputs used to test a program should demonstrate the different expected outcomes. Program requirements are needed to find appropriate defined inputs for testing.*
 
 
+# Big Idea 2 – Reflection Essays (2.1–2.4)
+
+## 2.1 – Binary Numbers
+Binary numbers are the foundation of all digital data. Everything—images, text, videos—is stored using bits. I learned how data is converted between binary and decimal. Overflow and round-off errors can happen. It was surprising how such simple 1s and 0s can create everything we see on a computer.
+
+## 2.2 – Data Compression
+Data compression helps reduce file size using algorithms like lossless and lossy compression. I found it interesting how we can save storage or increase speed by removing unnecessary data. JPEG images, for example, use lossy compression. It made me realize how much thought goes into optimizing media and files.
+
+## 2.3 – Extracting Information from Data
+This topic showed me how we use data to find patterns and make decisions, but also that we must be careful with interpretation. I learned the difference between correlation and causation. It made me think about how easily people can be misled by data without proper analysis.
+
+## 2.4 – Using Programs with Data
+Programs allow us to process and analyze huge amounts of data. I learned how algorithms can help us understand trends, like in recommendation systems. It was cool to see how computers help humans make smarter decisions. I’d like to explore how these systems are used in real-world apps.
+
+
+
 # 🐸 Clock Game – Frog Escape Edition
 
 ## What was the hardest part of timing logic?
