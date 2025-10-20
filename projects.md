@@ -22,6 +22,9 @@
 
 <img src="Screenshot 2025-09-04 at 11.19.23.png" alt="photo">
 
+*Self portrait*
+<img src="Screenshot 2025-10-20 at 08.01.55.png" alt="photo">
+
 *Clock*
 
 <img src="Screenshot 2025-09-15 at 08.03.29.png" alt="photo">
@@ -33,6 +36,7 @@
 *Clock3*
 
 <img src="Screenshot 2025-09-22 at 22.27.17.png" alt="photo">
+
 
 *İce Cream Overflow*
 
