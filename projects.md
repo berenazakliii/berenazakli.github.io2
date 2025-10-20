@@ -40,6 +40,8 @@
 *Clock4*
 <img src="Screenshot 2025-10-20 at 08.04.13.png" alt="photo">
 
+*4bit Binary*
+<img src="Screenshot 2025-10-20 at 08.09.49.png" alt="photo">
 
 *İce Cream Overflow*
 
