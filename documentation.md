@@ -76,6 +76,16 @@ Compression means saving space — like reusing the same code instead of writing
 
 ### ⏱️ Part A — Console Test:
 
+## Reflection(LİST/ARRAY)
+
+**Why did you choose this theme?**  
+I chose this theme because I wanted to build a clean and functional book organizer that feels like a real app.
+
+**What did you learn about lists?**  
+I learned how lists can dynamically display data, update automatically when items change, and connect to navigation and detail views.
+
+**What would change if your list had more items?**  
+With more items, sorting, searching, and sectioning become more important to keep the list organized and easy to browse.
 
 
 DOCUMENTATİON OF THE PROJECTS:
