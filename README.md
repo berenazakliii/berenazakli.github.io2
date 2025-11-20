@@ -14,6 +14,10 @@ My mentors name is Sedat Yalçın.
 <img src="Screenshot 2025-09-05 at 11.24.19.png" alt="My Photo">
 
 
+# My Favorite teacher
+My favorite teachers name is Aslan Erdem
+<img src="Screenshot 2025-11-20 at 10.13.57.png" alt="My Photo">
+
 
 
 
