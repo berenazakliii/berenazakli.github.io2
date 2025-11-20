@@ -88,6 +88,10 @@ I learned how lists can dynamically display data, update automatically when item
 With more items, sorting, searching, and sectioning become more important to keep the list organized and easy to browse.
 
 
+## Reflection NADİNS STORY
+
+What inspired me most about Nadin’s story is how she started with a simple idea and focused on creating a meaningful, enjoyable experience rather than trying to build something overly complex. It showed me that passion and creativity matter just as much as technical skill. In the future, I’d like to explore an idea that connects my own interests with interactive learning and turns it into a playful, engaging Swift Playground.
+
 DOCUMENTATİON OF THE PROJECTS:
 
 ## [Swift video:](https://drive.google.com/file/d/1Sv3gThbgu-gjOIpwiryBfZp0z_RLUF9Y/view?usp=sharing)
