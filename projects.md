@@ -51,6 +51,10 @@
 
 <img src="Screenshot 2025-10-12 at 23.12.32.png" alt="photo">
 
+*Moods list*
+<img src="Screenshot 2025-11-20 at 08.55.43.png" alt="photo">
+
+
 <br>
 
 ## [Swift video:](https://drive.google.com/drive/folders/1yDMeEUUbrb1YxQbIDnxOG3sOcxDd-pns?usp=sharing)
