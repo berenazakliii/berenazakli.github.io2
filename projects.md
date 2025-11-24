@@ -54,6 +54,10 @@
 *Moods list*
 <img src="Screenshot 2025-11-20 at 08.55.43.png" alt="photo">
 
+*Figma Design*
+<img src="Screenshot 2025-11-24 at 08.36.27.png" alt="photo">
+
+
 
 <br>
 
