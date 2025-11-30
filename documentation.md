@@ -92,6 +92,34 @@ With more items, sorting, searching, and sectioning become more important to kee
 
 What inspired me most about Nadin’s story is how she started with a simple idea and focused on creating a meaningful, enjoyable experience rather than trying to build something overly complex. It showed me that passion and creativity matter just as much as technical skill. In the future, I’d like to explore an idea that connects my own interests with interactive learning and turns it into a playful, engaging Swift Playground.
 
+# REVIEW.md – AP CSP Create Portfolio Review
+
+## Project 1 – Pixel Painter
+**Git Link:** *add your repo link*
+
+**Scores**
+- Video: 1
+- Program Requirements: 1
+- WR1: 1
+- WR2a Algorithm: 1
+- WR2b Errors/Testing: 1
+- WR2c Data/Procedure: 1
+
+**Snippet**
+```swift
+func changeColor() {
+    if let n = Int(userInput), n >= 0 && n < 100 {
+        cellColors[n] = .blue
+    }
+}
+
+ForEach(0..<10) { row in
+    ForEach(0..<10) { col in
+        Rectangle().fill(cellColors[row*10+col])
+    }
+}
+
+
 DOCUMENTATİON OF THE PROJECTS:
 
 ## [Swift video:](https://drive.google.com/file/d/1Sv3gThbgu-gjOIpwiryBfZp0z_RLUF9Y/view?usp=sharing)
