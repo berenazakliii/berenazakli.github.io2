@@ -92,21 +92,14 @@ With more items, sorting, searching, and sectioning become more important to kee
 
 What inspired me most about Nadin’s story is how she started with a simple idea and focused on creating a meaningful, enjoyable experience rather than trying to build something overly complex. It showed me that passion and creativity matter just as much as technical skill. In the future, I’d like to explore an idea that connects my own interests with interactive learning and turns it into a playful, engaging Swift Playground.
 
-# REVIEW.md – AP CSP Create Portfolio Review
+# AP CSP Portfolio Review – Last 3 Projects
 
-## Project 1 – Pixel Painter
-**Git Link:** *add your repo link*
+**Git Link:** *add your repo link here*
 
-**Scores**
-- Video: 1
-- Program Requirements: 1
-- WR1: 1
-- WR2a Algorithm: 1
-- WR2b Errors/Testing: 1
-- WR2c Data/Procedure: 1
+**Scores and Snippets – All Projects in One Block**
 
-**Snippet**
 ```swift
+// ===== Project 1 – Pixel Painter =====
 func changeColor() {
     if let n = Int(userInput), n >= 0 && n < 100 {
         cellColors[n] = .blue
@@ -118,6 +111,26 @@ ForEach(0..<10) { row in
         Rectangle().fill(cellColors[row*10+col])
     }
 }
+
+// Scores: Video:1, Program:1, WR1:1, Algorithm:1, Errors/Testing:1, Data/Procedure:1
+
+// ===== Project 2 – Ice Cream / Moods =====
+ForEach(0..<moods.count) { i in
+    Text(moods[i])
+    Text(colors[i])
+}
+
+// Scores: Video:1, Program:1, WR1:1, Algorithm:0, Errors/Testing:0, Data/Procedure:0
+// Reason for 0: Only displays lists, no procedure, no selection, no input handling
+
+// ===== Project 3 – Flags =====
+ForEach(0..<cities.count) { i in
+    Text(cities[i])
+    Text(flags[i])
+}
+
+// Scores: Video:1, Program:1, WR1:1, Algorithm:0, Errors/Testing:0, Data/Procedure:0
+// Reason for 0: Only displays lists, no algorithm or procedure
 
 
 DOCUMENTATİON OF THE PROJECTS:
