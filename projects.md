@@ -60,6 +60,12 @@
 
 <img src="Screenshot 2025-11-24 at 08.36.27.png" alt="photo">
 
+*PİXEL PAİNTER*
+
+<img src="Screenshot 2025-12-01 at 08.01.25.png" alt="photo">
+
+
+
 
 
 <br>
