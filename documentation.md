@@ -92,6 +92,35 @@ With more items, sorting, searching, and sectioning become more important to kee
 
 What inspired me most about Nadin’s story is how she started with a simple idea and focused on creating a meaningful, enjoyable experience rather than trying to build something overly complex. It showed me that passion and creativity matter just as much as technical skill. In the future, I’d like to explore an idea that connects my own interests with interactive learning and turns it into a playful, engaging Swift Playground.
 
+CONDİTİONALS:
+Programın karar vermesini sağlar. Bir koşulu kontrol eder ve koşulun sağlanıp sağlanmamasına bakar ve ona göre farklı sonuçlar çıkarır. Conditionals sayesine program farklı senaryolarda farklı şekilde çalışabilir. “If-else” mantığında ilerler.
+
+## BİG İDEA2 NOTES:
+
+**NESTED CONDİTİONALS:**
+
+Nested tekrarlanma demektir. Nested conditional ise bir koşulun tekrarlanması, yani bir koşulun içinde başka bir koşulun bulunmasıdır. Bir koşulun cevabına göre altındaki diğer koşul da kontrol edilir. Bu düz conditionalların kullanıldığı durumlardan daha karmaşık durumlarda kullanılan çeşit bir kullanımdır.
+
+**ITERATİON:**
+Programda bir işlemin birden fazla kere tekrarlanmasında kullanılır. Bu döngüler, aynı kodu birden fazla kez yazmak yerine ne kadar tekrara ihtiyaç varsa o kadar tekrar edilmesini sağlar. İki temel mantıkta çalışır(for), belirli sayıda tekrar veya bir koşul doğru olduğu sürece tekrar(while). Özellikle veri işleme, liste gezme ve algoritmaların çalışması içeren programlarda çok önümüze çıkabilir.
+
+
+**DEVELOPİNG ALGORİTHMS:**
+Algoritma, bir sorunun veya görevin çözülmesi veya tamamlanması için izlenilen adım adım talimatlardır. İyi bir algoritma net ve kesin adımlar, bir girildi ve ona göre mantıksal bir çıktı, ve iyi bir düzen gerektirir.
+Algoritma üretme aşamasında ilk problem analiz edilir, sonra çözüm adımları planlanır ve yazılım diline geçirilir. Kısaca, algoritmanın ana amacı problemi parça parça ayırıp sistematik şekilde adım adım ve düzenli şekilde çözmektir.
+
+**LİSTS:**
+Listeler, birden fazla veriyi tek yapı içerisinde tutabilmemizi sağlar. Listeler ile aynı türden olan birçok farklı değeri bir arada tutabiliriz. Listeler sayesinde verileri düzenli bir şekilde, istediğimizde erişebilecek şekilde saklayabiliriz. Aynı zamanda, bir yandan da tüm verilere aynı işlemi sağlayabilmemizi de listeler sağlar ve işimizi kolaylaştırır. Modern programlamada listeler veri yönetiminin temel yapı taşlarından biridir.
+
+**BİNARY SEARCH:**
+Binary search, sıralı olan bir listede aradığımız elemanı çok hızlı bir şekilde bulabilmemizi sağlar.ı:Binary seach şu şekilde işler: Listenin ortasındaki elemanı kontrol et, aranan değer ortadakinden küçükse sol yarıya git, büyükse sağ yarıya git, bu işlemi eleman bulunana kadar tekrar et. Bu yöntem, her adımda listeyi ikiye böldüğü için çok hızlıdır. Büyük verilerde istenen değerin bulumasında oldukça etkilidir.
+
+**CALLİNG PROCEDURES:**
+
+Fonksiyon, içinde bulunan bir işi yapmak ve  tekrardan yapabilmek için yazılan bir kod bloğudur. Fonksiyon çağırınca, önceden tanımlanmış bir işin yapımıdır. Fonksiyonlar, kodların tekrar tekrar yazılmasını engeller, daha düzenli ve yönetilebilir bir program yapar. Bazı fonksiyonlar değer döndürür, bazıları sadece işlem yapar. Foksiyonların temel amacı, programı anlamlı ve yönetilebilir parçalara bölmek.
+
+
+
 # AP CSP Portfolio Review – Last 3 Projects
 
 **Git Link:** *add your repo link here*
