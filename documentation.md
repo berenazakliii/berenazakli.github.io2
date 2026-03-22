@@ -119,6 +119,91 @@ Binary search, sıralı olan bir listede aradığımız elemanı çok hızlı bi
 
 Fonksiyon, içinde bulunan bir işi yapmak ve  tekrardan yapabilmek için yazılan bir kod bloğudur. Fonksiyon çağırınca, önceden tanımlanmış bir işin yapımıdır. Fonksiyonlar, kodların tekrar tekrar yazılmasını engeller, daha düzenli ve yönetilebilir bir program yapar. Bazı fonksiyonlar değer döndürür, bazıları sadece işlem yapar. Foksiyonların temel amacı, programı anlamlı ve yönetilebilir parçalara bölmek.
 
+# AP Computer Science Notes UNİT3
+
+## 3.1 Variables and Assignments
+- Variables store data values
+- Assignment sets the value of a variable
+
+## 3.2 Data Abstraction
+- Simplifying complex data into meaningful structures
+- Example: Lists, dictionaries, objects
+
+## 3.3 Mathematical Expressions
+- Arithmetic operations: +, -, *, /, %
+- Order of operations matters
+
+## 3.4 Strings
+- Sequences of characters
+- Operations: concatenation, slicing, length
+
+## 3.5 Boolean Expressions
+- True/False conditions
+- Logical operators: and, or, not
+
+## 3.6 Conditionals
+- `if` statements for decision making
+- Execute code only if condition is true
+
+## 3.7 Nested Conditionals
+- `if` statements inside other `if` statements
+- Useful for multiple levels of decisions
+
+## 3.8 Iteration
+- Loops: `for`, `while`
+- Repeat actions multiple times
+
+## 3.9 Developing Algorithms
+- Step-by-step problem-solving procedures
+- Plan before coding
+
+## 3.10 Lists
+- Ordered collection of items
+- Can store numbers, strings, or objects
+
+## 3.11 Binary Search
+- Efficient search on sorted lists
+- Divide-and-conquer strategy
+
+## 3.12 Calling Procedures
+- Execute reusable functions or methods
+- Pass arguments as needed
+
+## 3.13 Developing Procedures
+- Define your own functions
+- Include parameters and return values
+
+## 3.14 Libraries
+- Pre-written code you can reuse
+- Examples: math, random, SwiftUI
+
+## 3.15 Random Values
+- Generate pseudo-random numbers
+- Useful for simulations or games
+
+## 3.16 Simulations
+- Model real-world systems
+- Test outcomes with random or controlled input
+
+## 3.17 Algorithmic Efficiency
+- Analyze time and space complexity
+- Optimize code for performance
+
+## 3.18 Undecidable Problems
+- Problems that cannot be solved by any algorithm
+- Example: Halting Problem
+
+---
+
+### 📂 GitHub Notes Link
+[Your GitHub Repository Here](https://github.com/YourUsername/YourRepo)
+
+
+
+
+
+
+
 # AP CSP Unit 4 Notes
 
 **Beren Azakli**
