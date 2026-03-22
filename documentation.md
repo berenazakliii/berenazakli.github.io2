@@ -119,6 +119,103 @@ Binary search, sıralı olan bir listede aradığımız elemanı çok hızlı bi
 
 Fonksiyon, içinde bulunan bir işi yapmak ve  tekrardan yapabilmek için yazılan bir kod bloğudur. Fonksiyon çağırınca, önceden tanımlanmış bir işin yapımıdır. Fonksiyonlar, kodların tekrar tekrar yazılmasını engeller, daha düzenli ve yönetilebilir bir program yapar. Bazı fonksiyonlar değer döndürür, bazıları sadece işlem yapar. Foksiyonların temel amacı, programı anlamlı ve yönetilebilir parçalara bölmek.
 
+# AP CSP Unit 4 Notes
+
+**Beren Azakli**
+
+---
+
+##  4.1 The Internet
+
+### Definition
+
+The Internet is a global network of interconnected computers that communicate using standardized protocols.
+
+### Key Concepts
+
+* **IP Address:** Unique identifier for each device
+* **DNS:** Translates domain names into IP addresses
+* **Packets:** Data is broken into small pieces
+* **Protocols:** Rules for communication (TCP, HTTP)
+
+### How Data Travels
+
+* Data is split into packets
+* Packets may take different paths
+* Reassembled at destination
+
+### Important Idea
+
+* The Internet is **decentralized**
+
+---
+
+##  4.2 Fault Tolerance
+
+### Definition
+
+Fault tolerance is the ability of a system to continue working even when parts fail.
+
+### Key Concepts
+
+* **Redundancy:** Backup systems
+* **Multiple Paths:** Data reroutes if needed
+* **Reliability:** System stays functional
+
+### Why It Matters
+
+* Prevents total system failure
+* Keeps services running (banking, websites)
+
+---
+
+## 💻 4.3 Parallel and Distributed Computing
+
+### Definitions
+
+* **Sequential Computing:** One task at a time
+* **Parallel Computing:** Multiple tasks at once (one computer)
+* **Distributed Computing:** Multiple computers working together
+
+### Comparison
+
+| Type        | Description                   |
+| ----------- | ----------------------------- |
+| Sequential  | One task at a time            |
+| Parallel    | Multiple tasks on one machine |
+| Distributed | Tasks across many machines    |
+
+### Advantages
+
+* Faster processing
+* Handles large data
+* Scalable systems
+
+---
+
+##  Real-World Examples
+
+* Internet routing → packets take different paths
+* Google Search → many servers process queries
+* Netflix → distributed streaming
+* Banking systems → backup servers
+* Video games → parallel processing
+
+---
+
+## Summary
+
+* Internet uses **packets + protocols**
+* Fault tolerance = **reliability**
+* Parallel & distributed = **speed + efficiency**
+
+---
+
+##  GitHub Repo
+
+https://github.com/berenazakli/apcsp-unit4-notes
+
+
 
 
 # AP CSP Portfolio Review – Last 3 Projects
