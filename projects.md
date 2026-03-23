@@ -64,6 +64,12 @@
 
 <img src="Screenshot 2025-12-01 at 08.01.25.png" alt="photo">
 
+*Rock paper scissors*
+<img src="Screenshot 2026-03-23 at 08.22.30.png" alt="photo">
+
+
+
+
 
 
 
